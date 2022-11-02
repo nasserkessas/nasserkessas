@@ -80,7 +80,7 @@
 </a>
 
 
-<a href="https://github.com/nasserkessas/c-trig-grapher">
+<a href="https://github.com/nasserkessas/js-sidescroll-engine">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=js-sidescroll-engine&theme=dark"
@@ -95,7 +95,7 @@
 </a>
 
 
-<a href="https://github.com/nasserkessas/https://github.com/nasserkessas/threejs-solar-system-simulation">
+<a href="https://github.com/nasserkessas/threejs-solar-system-simulation">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=threejs-solar-system-simulation&theme=dark"
