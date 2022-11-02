@@ -6,6 +6,10 @@
 ### I'm a secondary student who uses GitHub for personal and school projects
     
 ---
+
+![Stars](https://img.shields.io/github/stars/nasserkessas)
+![Profile Views](https://gpvc.arturio.dev/nasserkessas)
+
 </div>
 
 ### I'm currently working on:
@@ -23,9 +27,6 @@
 <br>
 
 <div align="center">
-
-![Stars](https://img.shields.io/github/stars/nasserkessas)
-![Profile Views](https://gpvc.arturio.dev/nasserkessas)
 
 ---
 
