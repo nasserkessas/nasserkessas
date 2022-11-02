@@ -22,9 +22,13 @@
 
 <br>
 
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/nasserkessas)
+![Profile Views](https://gpvc.arturio.dev/nasserkessas)
+
 ---
 
-<div align="center">
   
 ### My stats:
 
@@ -105,5 +109,17 @@
 </a>
 
 </div>
+<br><br>
+<picture>
+<source 
+  srcset="https://github-profile-trophy.vercel.app/?username=nasserkessas&theme=onedark&no-frame=true&column=8"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-profile-trophy.vercel.app/?username=nasserkessas&no-frame=true&column=8"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-profile-trophy.vercel.app/?username=nasserkessas&no-frame=true&column=8" />
+</picture>
 
 <div>
