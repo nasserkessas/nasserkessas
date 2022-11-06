@@ -3,7 +3,7 @@
 ---
 
 # Hello, I'm Nasser Kessas
-### I'm a secondary student who uses GitHub for personal and school projects
+### I'm a 15 year old secondary student who uses GitHub for personal and school projects
     
 ---
 
