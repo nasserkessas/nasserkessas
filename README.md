@@ -44,9 +44,23 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=nasserkessas&show_icons=true&theme=light" />
 </picture>
-  
+
 <br>
-  
+
+<picture>
+<source 
+  srcset="http://github-readme-streak-stats.herokuapp.com?user=nasserkessas&theme=dark&background=#151515"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="http://github-readme-streak-stats.herokuapp.com?user=nasserkessas&theme=light"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=nasserkessas&theme=light" />
+</picture>
+    
+<br>
+    
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nasserkessas&show_icons=true&theme=dark&langs_count=8"
