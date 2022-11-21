@@ -14,7 +14,7 @@
 
 ### I'm currently working on:
 
-  - Data science and Machine Learning with Python
+  - Data science and Machine Learning with Python and Jupyter
 
 ### What I like to do/use:
 
