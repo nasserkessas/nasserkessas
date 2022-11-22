@@ -2,6 +2,10 @@
 
 ---
 
+<div align="center">
+    <img src="./css.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 # Hello, I'm Nasser Kessas
 ### I'm a 15 year old secondary student who uses GitHub for personal and school projects
     

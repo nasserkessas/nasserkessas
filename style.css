@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    animation: fade 2s infinite;
+}
+
+@keyframes fade {
+    from {
+        color: red;
+    }
+    50% {
+        color: yellow;
+    }
+    to {
+        color: blue;
+    }
+}
