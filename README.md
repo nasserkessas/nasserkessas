@@ -3,22 +3,17 @@
 ---
 
 # Hello, I'm Nasser Kessas
-
-<h3>
-
-<img src="./star.svg" width="30" height="30" alt="star-blink">
-I'm a 15 year old secondary student who uses GitHub for personal and school projects
-<img src="./star.svg" width="30" height="30" alt="star-blink">
-
-</h3>
-
+### I'm a 15 year old secondary student who uses GitHub for personal and school projects
     
 
 ---
 
 ![Stars](https://img.shields.io/github/stars/nasserkessas)
-
 ![Profile Views](https://gpvc.arturio.dev/nasserkessas)
+
+<img src="./star.svg" width="40" height="40" alt="star-blink">
+<img src="./star.svg" width="40" height="40" alt="star-blink">
+<img src="./star.svg" width="40" height="40" alt="star-blink">
 
 </div>
 
@@ -41,7 +36,7 @@ I'm a 15 year old secondary student who uses GitHub for personal and school proj
 
   
 
-### My stats:
+### My stats
 
 <picture>
 <source 
@@ -89,7 +84,7 @@ I'm a 15 year old secondary student who uses GitHub for personal and school proj
 
 <br><br>
 
-### My Favourite Repos:
+### My Favourite Repos
 
   
 <div>
