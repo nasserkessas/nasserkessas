@@ -2,31 +2,36 @@
 
 ---
 
-<div align="center">
-    <img src="./css.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
 # Hello, I'm Nasser Kessas
-### I'm a 15 year old secondary student who uses GitHub for personal and school projects
+
+<h3>
+
+<img src="./star.svg" width="30" height="30" alt="star-blink">
+I'm a 15 year old secondary student who uses GitHub for personal and school projects
+<img src="./star.svg" width="30" height="30" alt="star-blink">
+
+</h3>
+
     
+
 ---
 
 ![Stars](https://img.shields.io/github/stars/nasserkessas)
+
 ![Profile Views](https://gpvc.arturio.dev/nasserkessas)
 
 </div>
 
 ### I'm currently working on:
 
-  - Data science and Machine Learning with Python and Jupyter
+  + Data science and Machine Learning with Python and Jupyter
 
 ### What I like to do/use:
 
-  - Typescript <br>
-  - C <br>
-  - Physics simulations <br>
-  - [Pandas (python)](https://pandas.pydata.org/) <br>
-
+  + Typescript <br>
+  + C <br>
+  + Physics simulations <br>
+  + [Pandas (python)](https://pandas.pydata.org/) <br>
 
 <br>
 
@@ -35,6 +40,7 @@
 ---
 
   
+
 ### My stats:
 
 <picture>
@@ -62,9 +68,13 @@
 />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nasserkessas&theme=light" />
 </picture>
+
     
+
 <br>
+
     
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nasserkessas&show_icons=true&theme=dark&langs_count=8"
@@ -80,6 +90,7 @@
 <br><br>
 
 ### My Favourite Repos:
+
   
 <div>
 
@@ -97,7 +108,6 @@
 </picture>
 </a>
 
-
 <a href="https://github.com/nasserkessas/js-sidescroll-engine">
 <picture>
 <source 
@@ -111,7 +121,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=js-sidescroll-engine&theme=default" />
 </picture>
 </a>
-
 
 <a href="https://github.com/nasserkessas/threejs-solar-system-simulation">
 <picture>

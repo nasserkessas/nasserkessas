@@ -1,8 +1,10 @@
-<svg fill="none" viewBox="0 0 50 50" width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 55 55" width="55" height="55" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				h1 {
+                    margin: 0;
+                    padding: 0;
 				    animation: fade 4s infinite;
 				}
 				
@@ -19,7 +21,7 @@
 				}
 			</style>
 			<h1>
-				:star:
+				⭐
 			</h1>
 		</div>
 	</foreignObject>
