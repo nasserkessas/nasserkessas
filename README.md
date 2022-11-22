@@ -2,7 +2,12 @@
 
 ---
 
-# Hello, I'm Nasser Kessas
+<h1>
+<img src="./star.svg" width="40" height="40" alt="star-blink">
+Hello, I'm Nasser Kessas
+<img src="./star.svg" width="40" height="40" alt="star-blink">
+</h1>
+
 ### I'm a 15 year old secondary student who uses GitHub for personal and school projects
     
 
@@ -11,9 +16,11 @@
 ![Stars](https://img.shields.io/github/stars/nasserkessas)
 ![Profile Views](https://gpvc.arturio.dev/nasserkessas)
 
+<!--
 <img src="./star.svg" width="40" height="40" alt="star-blink">
 <img src="./star.svg" width="40" height="40" alt="star-blink">
 <img src="./star.svg" width="40" height="40" alt="star-blink">
+-->
 
 </div>
 
