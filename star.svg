@@ -1,8 +1,9 @@
-<svg fill="none" viewBox="3 0 38 38" width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 183 167" width="183" height="167" version="1.1"
+	xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				img {
+				image {
                     margin: 0;
                     padding: 0;
  				    animation: fade 3s infinite;
@@ -21,8 +22,7 @@
 				}
 			</style>
 
-			<img src="./star-image.svg">
-
 		</div>
 	</foreignObject>
+	<image x="0" y="0" width="183" height="167" href="star-image.svg" />
 </svg>
