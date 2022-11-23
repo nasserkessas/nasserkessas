@@ -3,9 +3,9 @@
 ---
 
 <h1>
-<img src="./star.svg" width="30" height="30" alt="star-blink">
+<img src="./star.svg" width="25" height="25" alt="star-blink">
 Hello, I'm Nasser Kessas
-<img src="./star.svg" width="30" height="30" alt="star-blink">
+<img src="./star.svg" width="25" height="25" alt="star-blink">
 </h1>
 
 ### I'm a 15 year old secondary student who uses GitHub for personal and school projects
