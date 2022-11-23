@@ -142,14 +142,14 @@ Hello, I'm Nasser Kessas
 <br><br>
 <picture>
 <source 
-  srcset="https://github-profile-trophy.vercel.app/?username=nasserkessas&theme=onedark&no-frame=true&column=8"
+  srcset="https://github-profile-trophy.vercel.app/?username=nasserkessas&theme=onedark&no-frame=true&column=-1"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-profile-trophy.vercel.app/?username=nasserkessas&no-frame=true&column=8"
+  srcset="https://github-profile-trophy.vercel.app/?username=nasserkessas&no-frame=true&column=-1"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-profile-trophy.vercel.app/?username=nasserkessas&no-frame=true&column=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=nasserkessas&no-frame=true&column=-1" />
 </picture>
 
 <div>
