@@ -26,8 +26,8 @@ Hello, I'm Nasser Kessas
 
 ### I'm currently working on:
 
-  + [Comparing the speeds of sort algorithms.](https://github.com/nasserkessas/sort-algorithm-comparison)
-  + [Making a directory navigation tool.](https://github.com/nasserkessas/directory-navigation-tool)
+  + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
+  + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
 
 ### What I like to do/use:
 
