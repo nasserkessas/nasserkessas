@@ -29,7 +29,7 @@ Hello, I'm Nasser Kessas
   + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
   + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
 
-### What I like to do/use:
+### What I enjoy:
 
   + Typescript <br>
   + C <br>
