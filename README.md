@@ -32,8 +32,8 @@ Hello, I'm Nasser Kessas
 ### What I enjoy:
 
   + Typescript <br>
-  + C <br>
-  + Physics simulations <br>
+  + C/C++ <br>
+  + Creating simulations <br>
   + [Pandas (python)](https://pandas.pydata.org/) <br>
 
 <br>
