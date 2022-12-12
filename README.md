@@ -28,6 +28,7 @@ Hello, I'm Nasser Kessas
 
   + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
   + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
+  + [Pokemon PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 
 ### What I enjoy:
 
