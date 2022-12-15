@@ -81,14 +81,14 @@ Hello, I'm Nasser Kessas
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nasserkessas&show_icons=true&theme=dark&langs_count=8"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nasserkessas&show_icons=true&theme=dark&layout=compact"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nasserkessas&show_icons=true&theme=default&langs_count=8"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nasserkessas&show_icons=true&theme=default&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasserkessas&show_icons=true&theme=default&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasserkessas&show_icons=true&theme=default&layout=compact" />
 </picture>
 
 <br><br>
