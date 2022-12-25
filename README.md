@@ -28,7 +28,7 @@ Hello, I'm Nasser Kessas
 
   + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
   + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
-  + [Creating a temperature and humidity arduino project](https://github.com/nasserkessas/https://github.com/nasserkessas/arduino-temp-and-humidity-project)
+  + [Creating a temperature and humidity arduino project](https://github.com/nasserkessas/arduino-temp-and-humidity-project)
   + [Pokemon PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 
 ### What I enjoy:
