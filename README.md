@@ -31,12 +31,25 @@ Hello, I'm Nasser Kessas
   + [Creating a temperature and humidity arduino project](https://github.com/nasserkessas/arduino-temp-and-humidity-project)
   + [Pokemon PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 
-### What I enjoy:
-
-  + Typescript <br>
-  + C/C++ <br>
-  + Creating simulations <br>
-  + [Pandas (python)](https://pandas.pydata.org/) <br>
+### My skills:
+<div>
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C"/> 
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="Threejs" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TS" />
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
+</div>
 
 <br>
 
