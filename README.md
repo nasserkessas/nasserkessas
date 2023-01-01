@@ -31,7 +31,8 @@ Hello, I'm Nasser Kessas
   + [Pokemon PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 
 ### My skills:
-<div>
+<div align="center">
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C"/> 
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
