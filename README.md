@@ -2,9 +2,9 @@
 <img width=100% src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif">
 
 <h1>
-<img src="./star.svg" width="25" height="25" alt="star-blink">
+<img src="./assets/star.svg" width="25" height="25" alt="star-blink">
 Hello, I'm Nasser Kessas
-<img src="./star.svg" width="25" height="25" alt="star-blink">
+<img src="./assets/star.svg" width="25" height="25" alt="star-blink">
 </h1>
 
 ### I'm a 15 year old secondary student who uses GitHub for personal and school projects
@@ -37,7 +37,7 @@ Hello, I'm Nasser Kessas
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" />
+<img width="80" src="./assets/github-white.svg" alt="Github" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" />
