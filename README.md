@@ -19,8 +19,8 @@
 
   + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
   + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
-  + [Creating a temperature and humidity arduino project](https://github.com/nasserkessas/arduino-temp-and-humidity-project)
-  + [Pokemon PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
+  + [Making a hamming code encoder and decoder](https://github.com/nasserkessas/hamming-codes)
+  + [Creating a simple MNIST number recognising machine learning model]
 
 ### My skills:
 <div align="center">
