@@ -10,9 +10,26 @@
 
 ---
 
+<a href="https://stackoverflow.com/users/20771881/nasser-kessas">
+<picture>
+<source 
+  srcset="https://stackoverflow.com/users/flair/20771881.png?theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://stackoverflow.com/users/flair/20771881.png"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="[https://github-readme-stats.vercel.app/api?username=nasserkessas&show_icons=true&theme=light]" />
+</picture>
+</a>
+  
+<br>
+  
 ![Stars](https://img.shields.io/github/stars/nasserkessas)
 ![Profile Views](https://gpvc.arturio.dev/nasserkessas)
 
+  
 </div>
 
 ### I'm currently working on:
