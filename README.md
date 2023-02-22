@@ -139,17 +139,59 @@ My Favourite Repos
 </picture>
 </a>
 
-<a href="https://github.com/nasserkessas/threejs-solar-system-simulation">
+<a href="https://github.com/nasserkessas/hamming-codes">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=threejs-solar-system-simulation&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=hamming-codes&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=threejs-solar-system-simulation&theme=default"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=hamming-codes&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=threejs-solar-system-simulation&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=hamming-codes&theme=default" />
+</picture>
+</a>
+  
+<a href="https://github.com/nasserkessas/sort-algorithm-comparison">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=sort-algorithm-comparison&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=sort-algorithm-comparison&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=sort-algorithm-comparison&theme=default" />
+</picture>
+</a>
+  
+<a href="https://github.com/nasserkessas/website-app">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=website-app&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=website-app&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=website-app&theme=default" />
+</picture>
+</a>
+  
+<a href="https://github.com/nasserkessas/NBA-mvp-predictor">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=NBA-mvp-predictor&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=NBA-mvp-predictor&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=NBA-mvp-predictor&theme=default" />
 </picture>
 </a>
 
