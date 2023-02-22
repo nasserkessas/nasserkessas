@@ -17,10 +17,11 @@
 
 ### I'm currently working on:
 
-  + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
-  + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
-  + [Making a hamming code encoder and decoder](https://github.com/nasserkessas/hamming-codes)
   + Creating a simple MNIST number recognising machine learning model
+  + [Making a hamming code encoder and decoder](https://github.com/nasserkessas/hamming-codes)
+  + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
+  + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
+
 
 ### My skills:
 <div align="center">
