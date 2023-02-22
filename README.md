@@ -1,14 +1,14 @@
 <div align="center">
 <img width=100% src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif">
 
-<h1>
-<img src="./assets/star.svg" width="25" height="25" alt="star-blink">
-Hello, I'm Nasser Kessas
-<img src="./assets/star.svg" width="25" height="25" alt="star-blink">
-</h1>
+<br>
+<br>
 
-### I'm a 15 year old secondary student who uses GitHub for personal and school projects
-    
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&repeat=false&width=435&height=35&lines=Hi%2C+I'm+Nasser+Kessas">
+
+<h3>
+I'm a 15 year old secondary student who uses GitHub for personal and school projects
+</h3>
 
 ---
 
@@ -56,8 +56,11 @@ Hello, I'm Nasser Kessas
 
 ---
   
-
-### My stats
+<h3>
+<img src="./assets/star.svg" width="15" height="15" alt="star-blink">
+My stats
+<img src="./assets/star.svg" width="15" height="15" alt="star-blink">
+</h3>
 
 <picture>
 <source 
@@ -105,7 +108,12 @@ Hello, I'm Nasser Kessas
 
 <br><br>
 
-### My Favourite Repos
+<h3>
+<img src="./assets/star.svg" width="15" height="15" alt="star-blink">
+My Favourite Repos
+<img src="./assets/star.svg" width="15" height="15" alt="star-blink">
+<h3>
+
 <!-- TODO: Update these -->
   
 <div>
