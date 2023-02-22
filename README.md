@@ -6,20 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=435&height=35&lines=Hi%2C+I'm+Nasser+Kessas">
 
-<h3>
-I'm a 15 year old secondary student who uses GitHub for personal and school projects
-</h3>
+### I'm a 15 year old secondary student who uses GitHub for personal and school projects
 
 ---
 
 ![Stars](https://img.shields.io/github/stars/nasserkessas)
 ![Profile Views](https://gpvc.arturio.dev/nasserkessas)
-
-<!--
-<img src="./star.svg" width="40" height="40" alt="star-blink">
-<img src="./star.svg" width="40" height="40" alt="star-blink">
-<img src="./star.svg" width="40" height="40" alt="star-blink">
--->
 
 </div>
 
