@@ -98,11 +98,7 @@ My stats
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nasserkessas&theme=light" />
 </picture>
 
-    
-
 <br>
-
-    
 
 <picture>
 <source 
