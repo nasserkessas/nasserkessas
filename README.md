@@ -20,7 +20,7 @@
   + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
   + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
   + [Making a hamming code encoder and decoder](https://github.com/nasserkessas/hamming-codes)
-  + [Creating a simple MNIST number recognising machine learning model]
+  + Creating a simple MNIST number recognising machine learning model
 
 ### My skills:
 <div align="center">
