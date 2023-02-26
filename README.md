@@ -194,17 +194,17 @@ My Favourite Repos
 </picture>
 </a>
   
-<a href="https://github.com/nasserkessas/NBA-mvp-predictor">
+<a href="https://github.com/nasserkessas/directory-navigation-tool">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=NBA-mvp-predictor&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=directory-navigation-tool&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=NBA-mvp-predictor&theme=default"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=directory-navigation-tool&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=NBA-mvp-predictor&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasserkessas&repo=directory-navigation-tool&theme=default" />
 </picture>
 </a>
 
