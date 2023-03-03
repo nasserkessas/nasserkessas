@@ -34,8 +34,8 @@
 
 ### I'm currently working on:
 
-  + Creating a simple MNIST number recognising machine learning model
-  + [Making a hamming code encoder and decoder](https://github.com/nasserkessas/hamming-codes)
+  + [Creating an online chat site using websockets](https://github.com/nasserkessas/online-chat)
+  + [Creating a simple MNIST number recognising machine learning model](https://github.com/nasserkessas/simple-mnist-neural-network)
   + [Making a directory navigation tool](https://github.com/nasserkessas/directory-navigation-tool)
   + [Comparing the speeds of sort algorithms](https://github.com/nasserkessas/sort-algorithm-comparison)
 
