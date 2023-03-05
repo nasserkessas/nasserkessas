@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=435&height=35&lines=Hi%2C+I'm+Nasser+Kessas">
 
-### I'm a 15 year old secondary student who uses GitHub for personal and school projects
+### I'm a 15 year old secondary student who uses GitHub for personal projects
 
 ---
 
