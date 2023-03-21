@@ -20,7 +20,7 @@
   srcset="https://stackoverflow.com/users/flair/20771881.png"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="[https://github-readme-stats.vercel.app/api?username=nasserkessas&show_icons=true&theme=light]" />
+<img src="https://stackoverflow.com/users/flair/20771881.png" />
 </picture>
 </a>
   
